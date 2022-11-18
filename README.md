@@ -6,19 +6,12 @@
 #### H4
 ##### H5
 ###### H6
-
 ---
-
 **bold text**
-
 ---
-
 *italicized text*
-
 ---
-
->blockquote
-
+> blockquote
 ---
 
 1. First item
